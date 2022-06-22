@@ -1,3 +1,10 @@
+## Context
+This repository is a copy of the official https://github.com/laravel/laravel, and is part of 3 repositories used to explain how to use laradock with projects that require different versions of php.
+
+The full explanation is here: [laradock-with-different-php-versions-between-projects](https://medium.com/@fabian-juarez/laradock-with-different-php-versions-between-projects-c304cf97cb91)
+
+##
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
